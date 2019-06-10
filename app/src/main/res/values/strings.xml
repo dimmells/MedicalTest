@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Medical Test</string>
+    <string name="test_button_end_test">Закінчити тест</string>
+    <string name="registration_title">Реєстрація</string>
+    <string name="email">Email</string>
+    <string name="login">Логін</string>
+    <string name="password">Пароль</string>
+    <string name="button_register">Зареєструватись</string>
+    <string name="error_fill_all_fields">Заповніть всі поля</string>
+    <string name="login_enter">Вхід</string>
+    <string name="button_enter">Увійти</string>
+    <string name="login_registration">Зареєструватись</string>
+    <string name="exam">Екзамен</string>
+    <string name="preparation">Підготовка</string>
+    <string name="result">Результати</string>
+    <string name="create_exam">Створити екзамен</string>
+    <string name="name">Ім\'я</string>
+    <string name="time">Час</string>
+    <string name="minutes">хв.</string>
+    <string name="max_result">Макс. бал</string>
+    <string name="count">Кількість</string>
+    <string name="create">Створити</string>
+</resources>
